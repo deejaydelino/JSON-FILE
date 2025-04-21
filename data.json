@@ -1,0 +1,18 @@
+{
+    "name" : "John doe",
+    "age": 30 ,
+    "email": "sample@grc.com",
+    "phone": "+654546455",
+    "address": {
+        "street" : "123 main St.",
+        "city" : "Anytown",
+        "state" : "CA",
+        "zip" : 43241
+    },
+    "company" : {
+        "name" : "tech solution",
+        "position": "Software Engineer",
+        "department" : "Development"
+    }
+
+}
